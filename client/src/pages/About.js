@@ -19,6 +19,13 @@ const About = () => {
             with high-quality products and delivering them right to your
             doorstep. Whether you are hunting for the latest trends, everyday
             essentials, or unique finds, we have got you covered.
+            <h3>Our Promise</h3>
+            Variety and Quality:
+            <br /> From fashion to electronics, home essentials to specialty
+            items, our curated selection is designed to cater to your diverse
+            needs. Convenience:
+            <br /> With a user-friendly app, fast checkouts, and reliable
+            delivery services, we make shopping hassle-free.
           </p>
         </div>
       </div>
